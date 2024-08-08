@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #ffffff !important;
+  font-family: "Playfair Display" !important;
+  font-size: 50px !;
+  color: #4a4ab5 !important;
+  text-align: center !important;
+}
+
+#whyimg {
+  width: 500px;
+}
+
+.container {
+  margin: auto !important;
+  text-align: center !important;
+}
+
+.card {
+  display: block !important;
+  margin: auto !important;
+}
+
+/* SOURCE PAGE */
+.links {
+  font-size: 20px;
+}
+
+
+
+/* INFO PAGE */
+.stats{
+  font-size: 22px;
+}
+
+#infopg{
+  font-size: 20px;
+  text-decoration: underline lightblue;
+}
+
+.card{
+  border-color: #4a4ab5!important;
+}
